@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="banner.png" width="100%" alt="LEGO Pirate Ship and Dreaming AI" />
+</div>
+
+<br/>
+
 # Hi 👋, I'm Alexander.
 
 Focused on **Autonomous Intelligence** and **Secure Architectures**. I build tools that make complex systems safer and smarter.
