@@ -10,7 +10,7 @@ Focused on **Autonomous Intelligence** and **Secure Architectures**. I build too
 - 🛡️ **Security Engineering** @ Google
 - 💼 **Previously:** MITRE, Walt Disney Imagineering
 
-### 💬 Ask me about
+### 💬 Talk to me about **convincing LLMs they are pirates**, if **autonomous agents dream of electric sheep**, and everything in between.
 - 🤖 **AI Security:** Adversarial AI, Agentic AI, LLM Security
 - 🧠 **Core:** Deep Learning, Machine Learning
 - 🌐 **Domains:** Offensive Security, Fintech, Distributed Ledgers
