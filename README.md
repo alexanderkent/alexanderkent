@@ -2,8 +2,10 @@
 
 - 🎓 **Doctoral Student** @ Purdue University
 - 🎓 **M.S.** from Georgia Tech
-- 🛡️ **Security Engineering** @ Google
+- 🛡️ **Sr. Security Engineer** @ Google
 - 💼 **Previously:** MITRE, Walt Disney Imagineering...
+
+Focused on Autonomous Intelligence and Secure Architectures. I build tools that make complex systems safer and smarter.
 
 ### 💬 Ask me about
 * **AI Security:** Adversarial AI, Agentic AI, LLM Security
