@@ -1,16 +1,19 @@
-## Hi 👋, I'm Alexander.
+# Hi 👋, I'm Alexander.
 
+Focused on **Autonomous Intelligence** and **Secure Architectures**. I build tools that make complex systems safer and smarter.
+
+### Academia
 - 🎓 **Doctoral Student** @ Purdue University
 - 🎓 **M.S.** from Georgia Tech
-- 🛡️ **Sr. Security Engineer** @ Google
-- 💼 **Previously:** MITRE, Walt Disney Imagineering...
 
-Focused on Autonomous Intelligence and Secure Architectures. I build tools that make complex systems safer and smarter.
+### Work
+- 🛡️ **Security Engineering** @ Google
+- 💼 **Previously:** MITRE, Walt Disney Imagineering
 
 ### 💬 Ask me about
-* **AI Security:** Adversarial AI, Agentic AI, LLM Security
-* **Core:** Deep Learning, Machine Learning
-* **Domains:** Offensive Security, Fintech, Deep Learning
+- 🤖 **AI Security:** Adversarial AI, Agentic AI, LLM Security
+- 🧠 **Core:** Deep Learning, Machine Learning
+- 🌐 **Domains:** Offensive Security, Fintech, Distributed Ledgers
 
 <!--
 **alexanderkent/alexanderkent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
