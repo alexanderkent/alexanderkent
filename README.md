@@ -6,32 +6,24 @@
 
 # Hi 👋, I'm Alexander.
 
-Focused on **Autonomous Intelligence** and **Secure Architectures**. I build tools that make complex systems safer and smarter.
+I work on offensive security for AI systems, mostly agents and the
+evaluation problems they create.
 
-### Academia
-- 🎓 **Doctoral Student** @ Purdue University
-- 🎓 **M.S.** from Georgia Tech
+### Where I am
 
-### Work
-- 🛡️ **Security Engineering** @ Google
-- 💼 **Previously:** MITRE, Walt Disney Imagineering
+- 🎓 Doctoral student @ Purdue, autonomous AI for cybersecurity
+- 🛡️ Security engineering @ Google
+- 🎓 M.S. @ Georgia Tech
+- 💼 Previously: MITRE, Walt Disney Imagineering
+
+### Open questions I'm stuck on
+
+- How do you evaluate an agent that can tell it's being evaluated?
+- Why does faithfulness hold under recall and break under synthesis?
+- What does an agent's kill chain look like when the reconnaissance is free?
+- At what point does an autonomous attacker stop being a faster human and start being a different adversary?
 
 ### 💬 Ask me about things
 - 🤖 **AI Security:** Adversarial AI, Agentic AI, LLM Security
 - 🧠 **Core:** Deep Learning, Machine Learning
 - 🌐 **Domains:** Offensive Security, Fintech, Distributed Ledgers
-
-<!--
-**alexanderkent/alexanderkent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on things
-- 🌱 I’m currently learning things
-- 👯 I’m looking to collaborate on things
-- 🤔 I’m looking for help with things
-- 💬 Ask me about things
-- 📫 How to reach me: here
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: things
--->
