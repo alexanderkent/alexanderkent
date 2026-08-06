@@ -11,7 +11,7 @@ evaluation problems they create.
 
 ### Where I am
 
-- 🎓 Doctoral student @ Purdue, autonomous AI for cybersecurity
+- 🎓 Doctoral student @ Purdue
 - 🛡️ Security engineering @ Google
 - 🎓 M.S. @ Georgia Tech
 - 💼 Previously: MITRE, Walt Disney Imagineering
